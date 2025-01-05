@@ -39,7 +39,8 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/your-username/remote-access-tool.git
+git clone https://github.com/Devendra576/remote-access-tool.git
+
 Navigate to the project directory:
 
 bash
